@@ -1,0 +1,9 @@
+USER_NOT_FOUND:
+  - errorcode: 1234,
+  - message: user {0} is not found.
+USER_ALREADY_EXIST:
+  - errorcode: 1235
+  - message: user {0} is already exist.
+PAYMENT_COMPLETED:
+  - errorcode: 1236
+  - message: your payment at {0} is successfully completed for product {1}.
