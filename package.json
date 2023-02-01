@@ -13,7 +13,7 @@
     "JSON": "^1.0.0",
     "inversify": "^5.0.1",
     "inversify-restify-utils": "^3.4.0",
-    "mongoose": "^5.8.3",
+    "mongoose": "^5.13.15",
     "pino": "^5.15.0",
     "reflect-metadata": "^0.1.13",
     "restify-errors": "^8.0.2",
